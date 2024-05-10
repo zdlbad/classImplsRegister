@@ -1,0 +1,19 @@
+{
+  "name": "class_impls_register",
+  "version": "1.0.0",
+  "description": "tool for registering class implements by path",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zdlbad/classImplsRegister.git"
+  },
+  "author": "dlzhang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zdlbad/classImplsRegister/issues"
+  },
+  "homepage": "https://github.com/zdlbad/classImplsRegister#readme"
+}
